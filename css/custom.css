@@ -1,0 +1,22 @@
+#google-play-badge {
+  height:100px
+}
+
+#app-store-badge {
+  height:100px;
+  padding: 16px
+}
+
+#blob-image {
+  height:300px;
+}
+
+.blob-button {
+    background-color: green;
+}
+
+.nav-blob {
+  height:30px;
+  margin-top:-10px;
+  padding-right:5px
+}
