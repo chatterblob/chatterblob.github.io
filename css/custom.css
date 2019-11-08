@@ -11,6 +11,10 @@
   height:300px;
 }
 
+img {
+  max-width: 100%;
+}
+
 .blob-button {
     background-color: green;
 }
@@ -19,4 +23,8 @@
   height:30px;
   margin-top:-10px;
   padding-right:5px
+}
+
+.brand-name {
+  letter-spacing: 0 !important
 }
